@@ -1,2 +1,2 @@
 def prime?(i)
-  range = (-1...)
+  range = (-1..)
