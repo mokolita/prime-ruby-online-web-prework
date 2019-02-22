@@ -1,2 +1,2 @@
 def prime?(i)
-  if 
+  range = (-1...)
